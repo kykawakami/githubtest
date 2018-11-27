@@ -1,2 +1,2 @@
-hogehoge
-hello, world!
+Hogehoge
+Hello, world!
